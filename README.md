@@ -1,1 +1,1 @@
-# Man, Don't Get Angry
+ChinczykQt (Ludo) — Qt 6 / C++ (Version 1.0)
