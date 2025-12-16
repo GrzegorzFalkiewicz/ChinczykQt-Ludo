@@ -1,1 +1,1 @@
-# Qt---Man-don-t-get-angry
+# Man, Don't Get Angry
